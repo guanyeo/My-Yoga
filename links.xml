@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pages>
+<link>
+<title>Two Foot Staff</title>
+<url>staff-pose.php</url>
+</link>
+<link>
+<title>Crane</title>
+<url>crane-pose.php</url>
+</link>
+<link>
+<title>Peacock</title>
+<url>index.html</url>
+</link>
+<link>
+<title>Eagle</title>
+<url>index.html</url>
+</link>
+<link>
+<title>Bound Angle</title>
+<url>index.html</url>
+</link>
+</pages>
